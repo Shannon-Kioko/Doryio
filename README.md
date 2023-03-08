@@ -1,4 +1,4 @@
 # Doryio
 
-Flappy bird game with Dory from 'Finding Dory'.
+Flappy bird clone with Dory from 'Finding Dory'.
 Made with Unity C#.
